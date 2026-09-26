@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790419808|5536948';
+const CACHE_VERSION = '1790443920|7678862';
 /** @type {string} */
 const CACHE_PREFIX = 'Tax Evasion: The-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
